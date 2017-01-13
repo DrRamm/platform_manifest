@@ -83,6 +83,7 @@
   <project path="external/brctl" name="android_external_brctl" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" />
   <project path="external/bson" name="android_external_bson" />
+  <project path="external/busybox" name="platform_external_busybox" remote="th" revision="n" />
   <project path="external/bzip2" name="android_external_bzip2" groups="pdk" />
   <project path="external/c-ares" name="platform/external/c-ares" remote="aosp" />
   <project path="external/caliper" name="platform/external/caliper" remote="aosp" />
